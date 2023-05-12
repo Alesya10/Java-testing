@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testWolt" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-05-12T15:34:24" hostname="LAPTOP-UPD6S61I" time="4.636">
+  <properties/>
+  <testcase name="main()" classname="testWolt" time="4.636"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[мая 12, 2023 6:34:24 PM org.openqa.selenium.manager.SeleniumManager getDriverPath
+INFO: Applicable driver not found; attempting to install with Selenium Manager (Beta)
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+Starting ChromeDriver 113.0.5672.63 (0e1a4471d5ae5bf128b1bd8f4d627c8cbd55f70c-refs/branch-heads/5672@{#912}) on port 27854
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+]]></system-err>
+</testsuite>
